@@ -1,0 +1,1 @@
+C:\ATM\ShareDemo\ShareDemo\ShareDemo.csproj;neutral

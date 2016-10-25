@@ -1,0 +1,6 @@
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\Tdd.Console\bin\Debug\Tdd.Console.exe.config
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\Tdd.Console\bin\Debug\Tdd.Console.exe
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\Tdd.Console\bin\Debug\Tdd.Console.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\Tdd.Console\obj\Debug\Tdd.Console.csprojResolveAssemblyReference.cache
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\Tdd.Console\obj\Debug\Tdd.Console.exe
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\Tdd.Console\obj\Debug\Tdd.Console.pdb

@@ -1,0 +1,5 @@
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\UnitTests.Infrastructure\bin\Debug\UnitTests.Infrastructure.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\UnitTests.Infrastructure\bin\Debug\UnitTests.Infrastructure.pdb
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\UnitTests.Infrastructure\obj\Debug\UnitTests.Infrastructure.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\UnitTests.Infrastructure\obj\Debug\UnitTests.Infrastructure.pdb
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\UnitTests.Infrastructure\obj\Debug\UnitTests.Infrastructure.csprojResolveAssemblyReference.cache

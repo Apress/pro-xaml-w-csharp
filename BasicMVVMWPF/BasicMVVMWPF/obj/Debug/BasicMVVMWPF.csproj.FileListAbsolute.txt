@@ -1,0 +1,15 @@
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\bin\Debug\BasicMVVMWPF.exe.config
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF.csprojResolveAssemblyReference.cache
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\App.g.cs
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF_MarkupCompile.cache
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\MainWindow.g.cs
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF_MarkupCompile.lref
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\bin\Debug\BasicMVVMWPF.exe
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\bin\Debug\BasicMVVMWPF.pdb
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\MainWindow.baml
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF.g.resources
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF.Properties.Resources.resources
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF.csproj.GenerateResource.Cache
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF.exe
+D:\Development\book source\Apress XAML\Source\BasicMVVMWPF\BasicMVVMWPF\obj\Debug\BasicMVVMWPF.pdb

@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow">
+    <Window.Resources>
+        <Style TargetType="TextBox"
+               BasedOn="{StaticResource {x:Type TextBox}}">
+            <Setter Property="Foreground"
+                    Value="Red" />
+        </Style>
+        <Style x:Key="MyCustomTextBoxStyle"
+               TargetType="TextBox">
+            <Setter Property="FontSize"
+                    Value="16" />
+            <Setter Property="FontWeight"
+                    Value="Bold" />
+            <Setter Property="TextAlignment"
+                    Value="Center" />
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <TextBox Style="{StaticResource MyCustomTextBoxStyle}"
+                 Text="This TextBox will have the MyCustomTextBoxStyle applied." />
+        <TextBox Text="This TextBox will have the BasedOn TextBox Style applied." />
+    </StackPanel>
+</Window>

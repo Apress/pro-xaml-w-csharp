@@ -1,0 +1,7 @@
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\NUnitExample\bin\Debug\NUnitExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\NUnitExample\bin\Debug\NUnitExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\NUnitExample\bin\Debug\nunit.framework.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\NUnitExample\bin\Debug\nunit.framework.xml
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\NUnitExample\obj\Debug\NUnitExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\NUnitExample\obj\Debug\NUnitExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\NUnitExample\obj\Debug\NUnitExample.csprojResolveAssemblyReference.cache

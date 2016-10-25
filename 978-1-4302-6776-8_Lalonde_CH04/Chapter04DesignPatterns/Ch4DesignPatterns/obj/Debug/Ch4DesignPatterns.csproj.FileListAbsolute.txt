@@ -1,0 +1,5 @@
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter04DesignPatterns\Ch4DesignPatterns\bin\Debug\Ch4DesignPatterns.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter04DesignPatterns\Ch4DesignPatterns\bin\Debug\Ch4DesignPatterns.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter04DesignPatterns\Ch4DesignPatterns\obj\Debug\Ch4DesignPatterns.csprojResolveAssemblyReference.cache
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter04DesignPatterns\Ch4DesignPatterns\obj\Debug\Ch4DesignPatterns.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter04DesignPatterns\Ch4DesignPatterns\obj\Debug\Ch4DesignPatterns.pdb

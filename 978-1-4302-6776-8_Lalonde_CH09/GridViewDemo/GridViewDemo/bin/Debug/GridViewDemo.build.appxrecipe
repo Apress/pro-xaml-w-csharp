@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LORILALONDE1F65</Machine>
+    <WindowsUser>lorilalonde</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>faf619ed-f4e2-427b-9d6f-654bd4c676b9</PackageIdentityName>
+    <IntermediateOutputPath>\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\bin\Debug\GridViewDemo.exe">
+      <PackagePath>GridViewDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Amazon.png">
+      <PackagePath>Assets\Amazon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Apple.png">
+      <PackagePath>Assets\Apple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Bitcoin.png">
+      <PackagePath>Assets\Bitcoin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Blackberry.png">
+      <PackagePath>Assets\Blackberry.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\BoxNet.png">
+      <PackagePath>Assets\BoxNet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Delicious.png">
+      <PackagePath>Assets\Delicious.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Digg.png">
+      <PackagePath>Assets\Digg.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Ebay.png">
+      <PackagePath>Assets\Ebay.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Evernote.png">
+      <PackagePath>Assets\Evernote.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Facebook.png">
+      <PackagePath>Assets\Facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Flickr.png">
+      <PackagePath>Assets\Flickr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Flipboard.png">
+      <PackagePath>Assets\Flipboard.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Google.png">
+      <PackagePath>Assets\Google.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\HP.png">
+      <PackagePath>Assets\HP.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Intel.png">
+      <PackagePath>Assets\Intel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Lenovo.png">
+      <PackagePath>Assets\Lenovo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\LG.png">
+      <PackagePath>Assets\LG.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\LinkedIn.png">
+      <PackagePath>Assets\LinkedIn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Microsoft.png">
+      <PackagePath>Assets\Microsoft.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\PayPal.png">
+      <PackagePath>Assets\PayPal.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Pinterest.png">
+      <PackagePath>Assets\Pinterest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Reddit.png">
+      <PackagePath>Assets\Reddit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Square.png">
+      <PackagePath>Assets\Square.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Twitter.png">
+      <PackagePath>Assets\Twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\Udemy.png">
+      <PackagePath>Assets\Udemy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\Assets\YouTube.png">
+      <PackagePath>Assets\YouTube.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\bin\Debug\DetailsPage.xbf">
+      <PackagePath>DetailsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\bin\Debug\GridViewDemo.xr.xml">
+      <PackagePath>GridViewDemo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\GridViewDemo\GridViewDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

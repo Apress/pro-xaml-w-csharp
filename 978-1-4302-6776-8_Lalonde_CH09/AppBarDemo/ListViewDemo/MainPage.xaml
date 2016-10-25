@@ -1,0 +1,64 @@
+﻿<Page x:Class="ListViewDemo.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:ListViewDemo"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0"
+                    Margin="19,0,0,0">
+            <TextBlock Text="ListView Demo"
+                       Style="{ThemeResource TitleTextBlockStyle}"
+                       Margin="0,12,0,0" />
+            <TextBlock Text="companies"
+                       Margin="0,-6.5,0,26.5"
+                       Style="{ThemeResource HeaderTextBlockStyle}"
+                       CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" />
+        </StackPanel>
+
+        <ListView x:Name="CompanyListView" 
+                  SelectionMode="Multiple"
+                  ItemsSource="{Binding Companies}"
+                  Grid.Row="1">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Border BorderBrush="{ThemeResource PhoneAccentBrush}">
+                            <Image Source="{Binding LogoImagePath}" />
+                        </Border>
+                        <TextBlock Text="{Binding CompanyName}"
+                                   VerticalAlignment="Center"
+                                   Margin="10,0,0,0"
+                                   FontSize="{StaticResource TextStyleLargeFontSize}"/>
+
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Label="add"
+                          Icon="Add"
+                          Click="OnAddButtonClicked"/>
+            <AppBarButton Label="delete"
+                          Icon="Delete"
+                          Click="OnDeleteButtonClicked"/>
+            <AppBarButton Label="favorite"
+                          Icon="Favorite" />
+            <AppBarButton Label="pin"
+                          Icon="Pin" />
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="settings" />
+                <AppBarButton Label="rate the app" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

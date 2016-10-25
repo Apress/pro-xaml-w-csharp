@@ -1,0 +1,5 @@
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb\bin\Debug\ApressXaml.Usb.dll
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb\bin\Debug\ApressXaml.Usb.pdb
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb\obj\Debug\ApressXaml.Usb.csprojResolveAssemblyReference.cache
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb\obj\Debug\ApressXaml.Usb.dll
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb\obj\Debug\ApressXaml.Usb.pdb

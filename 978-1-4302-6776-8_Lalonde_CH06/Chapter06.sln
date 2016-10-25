@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests.Infrastructure", "UnitTests.Infrastructure\UnitTests.Infrastructure.csproj", "{4D3CA18D-5C46-4B2B-BAAD-3F5098FF831F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizIt.Data", "DataAccess\QuizIt.Data.csproj", "{15890A20-2190-4D4B-9E5C-A661BACDC8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizIt.Domain", "QuizIt.Domain\QuizIt.Domain.csproj", "{B6A0BE53-B5EA-4281-A034-E047300CA3C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqExample", "MoqExample\MoqExample.csproj", "{27FF0F95-88D9-4D1B-8349-C75C7E18EC00}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://refactorthis.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataAccess\\QuizIt.Data.csproj
+		SccProjectName1 = DataAccess
+		SccLocalPath1 = DataAccess
+		SccProjectUniqueName2 = QuizIt.Domain\\QuizIt.Domain.csproj
+		SccProjectName2 = QuizIt.Domain
+		SccLocalPath2 = QuizIt.Domain
+		SccProjectUniqueName3 = UnitTests.Infrastructure\\UnitTests.Infrastructure.csproj
+		SccProjectName3 = UnitTests.Infrastructure
+		SccLocalPath3 = UnitTests.Infrastructure
+		SccProjectUniqueName4 = MoqExample\\MoqExample.csproj
+		SccProjectName4 = MoqExample
+		SccLocalPath4 = MoqExample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3CA18D-5C46-4B2B-BAAD-3F5098FF831F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3CA18D-5C46-4B2B-BAAD-3F5098FF831F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3CA18D-5C46-4B2B-BAAD-3F5098FF831F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3CA18D-5C46-4B2B-BAAD-3F5098FF831F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15890A20-2190-4D4B-9E5C-A661BACDC8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15890A20-2190-4D4B-9E5C-A661BACDC8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15890A20-2190-4D4B-9E5C-A661BACDC8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15890A20-2190-4D4B-9E5C-A661BACDC8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A0BE53-B5EA-4281-A034-E047300CA3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A0BE53-B5EA-4281-A034-E047300CA3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A0BE53-B5EA-4281-A034-E047300CA3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A0BE53-B5EA-4281-A034-E047300CA3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FF0F95-88D9-4D1B-8349-C75C7E18EC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FF0F95-88D9-4D1B-8349-C75C7E18EC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FF0F95-88D9-4D1B-8349-C75C7E18EC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FF0F95-88D9-4D1B-8349-C75C7E18EC00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

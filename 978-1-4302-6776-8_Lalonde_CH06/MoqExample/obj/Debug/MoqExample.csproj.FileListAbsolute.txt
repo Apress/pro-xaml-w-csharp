@@ -1,0 +1,34 @@
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\MoqExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\MoqExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\Tdd.Console.exe
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\Tdd.Console.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\obj\Debug\MoqExample.csprojResolveAssemblyReference.cache
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\obj\Debug\MoqExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\obj\Debug\MoqExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\MoqExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\MoqExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\DataAccess.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\Moq.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\QuizIt.Domain.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\Tdd.Console.exe
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\DataAccess.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\QuizIt.Domain.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\Tdd.Console.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\Moq.xml
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\obj\Debug\MoqExample.csprojResolveAssemblyReference.cache
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\obj\Debug\MoqExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\obj\Debug\MoqExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\EntityFramework.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MoqExample\bin\Debug\EntityFramework.xml
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\MoqExample.dll
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\MoqExample.pdb
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\DataAccess.dll
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\QuizIt.Domain.dll
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\EntityFramework.dll
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\DataAccess.pdb
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\QuizIt.Domain.pdb
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\EntityFramework.xml
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\obj\Debug\MoqExample.csprojResolveAssemblyReference.cache
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\obj\Debug\MoqExample.dll
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\obj\Debug\MoqExample.pdb
+D:\Development\tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\MoqExample\bin\Debug\Moq.dll

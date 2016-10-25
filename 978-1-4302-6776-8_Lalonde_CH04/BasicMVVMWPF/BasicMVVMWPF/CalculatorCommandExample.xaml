@@ -1,0 +1,53 @@
+﻿<Window x:Class="BasicMVVMWPF.CalculatorCommandExample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:BasicMVVMWPF.ViewModel"
+        Title="CalculatorCommandExample" Height="300" Width="300">
+    <Window.Resources>
+        <vm:CalculatorViewModel x:Key="viewModel" />
+    </Window.Resources>
+    <Grid DataContext="{StaticResource ResourceKey=viewModel}">
+        <Grid.RowDefinitions>
+            <!--Window instructions-->
+            <RowDefinition />
+            <!--First number-->
+            <RowDefinition />
+            <!--Second number-->
+            <RowDefinition />
+            <!--Sum of two numbers-->
+            <RowDefinition />
+            <!--Add button-->
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        
+        <TextBlock Name="AppTitle" Text="Simple Command Calculator" Grid.Row="0" 
+                   Grid.Column="0" Grid.ColumnSpan="2" />
+
+        <TextBlock Name="FirstNumberTitle" Text="First number" 
+                   Grid.Row="1" Grid.Column="0" />
+        
+        <TextBox Name="txtFirstNumber" 
+                 Text="{Binding FirstNumber}" Grid.Row="1" Grid.Column="1" />
+
+        <TextBlock Name="SecondNumberTitle" Text="Second number" 
+                   Grid.Row="2" Grid.Column="0" />
+
+        <TextBox Name="txtSecondtNumber" 
+                 Text="{Binding SecondNumber}" Grid.Row="2" Grid.Column="1" />
+
+        <TextBlock Name="AnswerTitle" Text="Sum of two numbers:" 
+                   Grid.Row="3" Grid.Column="0" />
+
+        <TextBox Name="txtSum" 
+                 Text="{Binding Sum}" Grid.Row="3" Grid.Column="1" />
+
+        <Button Name="btnAddNumbers" Content="Add numbers" Grid.Row="4" 
+                Grid.Column="0" Grid.ColumnSpan="2" 
+                CommandParameter="{StaticResource ResourceKey=viewModel}" 
+                Command="{Binding AddNumbersCommand}" />
+    </Grid>
+</Window>

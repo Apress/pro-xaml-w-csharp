@@ -1,0 +1,12 @@
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\DataAccess.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\DataAccess.pdb
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\EntityFramework.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\QuizIt.Domain.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\QuizIt.Domain.pdb
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\EntityFramework.xml
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\obj\Debug\QuizIt.Data.csprojResolveAssemblyReference.cache
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\obj\Debug\DataAccess.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\DataAccess\obj\Debug\DataAccess.pdb

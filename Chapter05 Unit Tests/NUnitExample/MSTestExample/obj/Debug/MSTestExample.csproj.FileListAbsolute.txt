@@ -1,0 +1,16 @@
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\bin\Debug\MSTestExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\bin\Debug\MSTestExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\bin\Debug\Moq.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\bin\Debug\Tdd.Console.exe
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\bin\Debug\Tdd.Console.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\bin\Debug\Moq.xml
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\obj\Debug\MSTestExample.csprojResolveAssemblyReference.cache
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\obj\Debug\MSTestExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MSTestExample\obj\Debug\MSTestExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MSTestExample\bin\Debug\MSTestExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MSTestExample\bin\Debug\MSTestExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MSTestExample\bin\Debug\Moq.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MSTestExample\bin\Debug\Moq.xml
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MSTestExample\obj\Debug\MSTestExample.csprojResolveAssemblyReference.cache
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MSTestExample\obj\Debug\MSTestExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05 Unit Tests\NUnitExample\MSTestExample\obj\Debug\MSTestExample.pdb

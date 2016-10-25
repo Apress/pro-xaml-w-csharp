@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LORILALONDE1F65</Machine>
+    <WindowsUser>lorilalonde</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bb13c1e6-fa3b-45f4-bb33-432614a8bb73</PackageIdentityName>
+    <IntermediateOutputPath>\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\bin\Debug\ThemesAndResourcesDemo.exe">
+      <PackagePath>ThemesAndResourcesDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\bin\Debug\ThemesAndResourcesDemo.xr.xml">
+      <PackagePath>ThemesAndResourcesDemo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="\\psf\Home\Documents\Apress\ProXaml\Source Code\978-1-4302-6776-8_Lalonde_CH09\ThemesAndResourcesDemo\ThemesAndResourcesDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

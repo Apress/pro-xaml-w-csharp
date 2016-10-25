@@ -1,0 +1,7 @@
+F:\development\book source\Apress XAML\Source\ChapterThreeSolution\ChapterThree\Purchasing.Test\bin\Debug\Purchasing.Test.dll
+F:\development\book source\Apress XAML\Source\ChapterThreeSolution\ChapterThree\Purchasing.Test\bin\Debug\Purchasing.Test.pdb
+F:\development\book source\Apress XAML\Source\ChapterThreeSolution\ChapterThree\Purchasing.Test\bin\Debug\Purchasing.Domain.dll
+F:\development\book source\Apress XAML\Source\ChapterThreeSolution\ChapterThree\Purchasing.Test\bin\Debug\Purchasing.Domain.pdb
+F:\development\book source\Apress XAML\Source\ChapterThreeSolution\ChapterThree\Purchasing.Test\obj\Debug\Purchasing.Test.csprojResolveAssemblyReference.cache
+F:\development\book source\Apress XAML\Source\ChapterThreeSolution\ChapterThree\Purchasing.Test\obj\Debug\Purchasing.Test.dll
+F:\development\book source\Apress XAML\Source\ChapterThreeSolution\ChapterThree\Purchasing.Test\obj\Debug\Purchasing.Test.pdb

@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="ThemesAndResourcesDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ThemesAndResourcesDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource  ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel>
+        <TextBlock x:Name="TextBlock1"  Foreground="{ThemeResource PhoneAccentBrush}" 
+                   FontSize="{ThemeResource TextStyleSmallFontSize}"></TextBlock>
+        <TextBlock x:Name="TextBlock2"
+                   Foreground="{ThemeResource PhoneAccentBrush}"
+                   FontSize="{ThemeResource TextStyleMediumFontSize}"></TextBlock>
+        <TextBlock x:Name="TextBlock3"
+                   Foreground="{ThemeResource PhoneAccentBrush}"
+                   FontSize="{ThemeResource TextStyleLargeFontSize}"></TextBlock>
+        <TextBlock x:Name="TextBlock4"
+                   Foreground="{ThemeResource PhoneAccentBrush}"
+                   FontSize="{ThemeResource TextStyleExtraLargeFontSize}"></TextBlock>
+        <TextBlock x:Name="TextBlock5"
+                   Foreground="{ThemeResource PhoneAccentBrush}"
+                   FontSize="{ThemeResource TextStyleExtraExtraLargeFontSize}"></TextBlock>
+        <TextBlock x:Name="TextBlock6"
+                   Foreground="{ThemeResource PhoneAccentBrush}"
+                   FontSize="{ThemeResource TextStyleExtraLargePlusFontSize}"></TextBlock>
+    </StackPanel>
+</Page>
+

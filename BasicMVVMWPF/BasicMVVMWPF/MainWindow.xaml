@@ -1,0 +1,45 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="BasicMVVMWPF.MainWindow"
+    xmlns:vm="clr-namespace:BasicMVVMWPF"
+    Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <vm:MainWindowViewModel x:Key="viewModel" />
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <!--Header row-->
+            <RowDefinition />
+            <!--Content row-->
+            <RowDefinition />
+            <!--Footer row-->
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="txtInstructions" 
+                 Text="This is the View of the application." FontSize="20" Grid.Row="0" />
+        <Grid DataContext="{StaticResource ResourceKey=viewModel}" Height="236" VerticalAlignment="Top" Grid.RowSpan="3" Margin="0,54,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="44*" />
+                <RowDefinition Height="34*" />
+                <RowDefinition Height="40*" />
+                <RowDefinition Height="39*" />
+                <RowDefinition Height="40*" />
+                <RowDefinition Height="39*" />
+            </Grid.RowDefinitions>
+            <TextBlock x:Name="txtFullNameDescription" Text="The field below represents the person's full name" 
+    			FontSize="20" Grid.Row="0" />
+            <TextBlock x:Name="txtPersonFullName" Text="{Binding FullName}" 
+    			FontSize="20" Grid.Row="1" />
+            <TextBlock x:Name="txtFirstNameDescription" Text="The field below represents the person's first name" 
+    			FontSize="20" Grid.Row="2" />
+            <TextBox x:Name="txtFirstName" 
+    			Text="{Binding FirstName}" FontSize="20" Grid.Row="3"  />
+            <TextBlock x:Name="txtLastNameDescription" Text="The field below represents the person's last name" 
+    			FontSize="20" Grid.Row="4" />
+            <TextBox x:Name="txtLastName" 
+    			Text="{Binding LastName}" FontSize="20" Grid.Row="5" />
+        </Grid>
+    </Grid>
+</Window>

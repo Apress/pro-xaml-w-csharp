@@ -1,0 +1,7 @@
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\MoqExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\MoqExample.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\Tdd.Console.exe
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\bin\Debug\Tdd.Console.pdb
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\obj\Debug\MoqExample.csprojResolveAssemblyReference.cache
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\obj\Debug\MoqExample.dll
+C:\DiskD\Development\book source\Apress XAML\Source\Chapter05\NUnitExample\MoqExample\obj\Debug\MoqExample.pdb

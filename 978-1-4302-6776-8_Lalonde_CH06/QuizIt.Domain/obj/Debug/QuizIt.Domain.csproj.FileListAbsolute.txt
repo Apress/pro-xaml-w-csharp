@@ -1,0 +1,4 @@
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\QuizIt.Domain\bin\Debug\QuizIt.Domain.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\QuizIt.Domain\bin\Debug\QuizIt.Domain.pdb
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\QuizIt.Domain\obj\Debug\QuizIt.Domain.dll
+D:\Development\Tfs\XAMLBook\Reference Application\Branches\QuizIt_Ch06_NotFromMain\QuizIt.Domain\obj\Debug\QuizIt.Domain.pdb

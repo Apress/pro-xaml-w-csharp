@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LORILALONDE1F65</Machine>
+    <WindowsUser>lorilalonde</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e99cfcea-1418-43ac-94fd-1bea1ed36119</PackageIdentityName>
+    <IntermediateOutputPath>C:\ATM\ShareDemo\ShareDemo\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D89C981843104A2FD7BF394EE7BE597919A3E001BAC53627F463D7BA6E2C7B75</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e99cfcea-1418-43ac-94fd-1bea1ed36119_1.0.0.0_neutral__hv9ng7td2pajr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e99cfcea-1418-43ac-94fd-1bea1ed36119_hv9ng7td2pajr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e99cfcea-1418-43ac-94fd-1bea1ed36119</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lorilalonde</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\ATM\ShareDemo\ShareDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-21T00:47:12.054</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\bin\Debug\ShareDemo.exe">
+      <PackagePath>ShareDemo.exe</PackagePath>
+      <Modified>2015-05-21T02:56:56.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\MontegoBay.png">
+      <PackagePath>MontegoBay.png</PackagePath>
+      <Modified>2015-05-21T00:45:04.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-20T23:59:45.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-21T02:56:55.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\bin\Debug\ShareDemo.xr.xml">
+      <PackagePath>ShareDemo.xr.xml</PackagePath>
+      <Modified>2015-05-21T02:56:55.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\ATM\ShareDemo\ShareDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-21T00:47:11.981</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

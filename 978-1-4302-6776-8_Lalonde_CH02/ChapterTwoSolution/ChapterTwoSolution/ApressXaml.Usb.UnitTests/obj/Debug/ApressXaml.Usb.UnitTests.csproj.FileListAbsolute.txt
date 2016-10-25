@@ -1,0 +1,7 @@
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb.UnitTests\bin\Debug\ApressXaml.Usb.UnitTests.dll
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb.UnitTests\bin\Debug\ApressXaml.Usb.UnitTests.pdb
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb.UnitTests\bin\Debug\ApressXaml.Usb.dll
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb.UnitTests\bin\Debug\ApressXaml.Usb.pdb
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb.UnitTests\obj\Debug\ApressXaml.Usb.UnitTests.csprojResolveAssemblyReference.cache
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb.UnitTests\obj\Debug\ApressXaml.Usb.UnitTests.dll
+F:\development\book source\Apress XAML\Source\ChapterTwoSolution\ChapterTwoSolution\ApressXaml.Usb.UnitTests\obj\Debug\ApressXaml.Usb.UnitTests.pdb
